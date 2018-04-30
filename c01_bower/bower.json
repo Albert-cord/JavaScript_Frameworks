@@ -1,0 +1,17 @@
+{
+  "name": "c01_bower",
+  "authors": [
+    "Albert-cord <31922224+Albert-cord@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
